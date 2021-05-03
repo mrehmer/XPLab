@@ -1,2 +1,2 @@
 # XPLab Repository
-This repository is created for the Univerity course "Experimental Psychology Lab".
+This repository is created for the University course "Experimental Psychology Lab".
